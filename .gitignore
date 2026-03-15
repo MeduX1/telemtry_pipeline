@@ -1,0 +1,14 @@
+# Python Virtual Environment
+venv/
+env/
+__pycache__/
+
+# Local SQL Databases
+*.db
+*.sqlite3
+
+# Local AI Vector Databases
+chroma_db/
+
+# Environment Variables (for when we add real API keys later)
+.env
